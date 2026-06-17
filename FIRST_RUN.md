@@ -21,7 +21,7 @@ setx SERPER_API_KEY "your_api_key_here"
 
 ### Mac/Linux Users:
 ```bash
-export SERPER_API_KEY="your_api_key_here"
+export SERPER_API_KEY="5bb6f1b1d3f84b2913471992044346853327a449"
 ```
 
 ---
