@@ -34,8 +34,72 @@ Open `config.json` and find the `keywords` section. Replace with YOUR keywords:
 "keywords": [
   {
     "id": "kw_1",
-    "keyword": "YOUR KEYWORD HERE",
-    "target_url": "https://yourwebsite.com",
+    "keyword": "Diagnostic Test Kit for Medical Use
+Medical Testing Kits
+Diagnostic Test Kit Online
+Online Diagnostic Test Kit
+Rapid Antigen Test Kit Online
+Antigen Rapid Test Kit
+Antigen Rapid Test Kit Online
+Blood Group Test Device
+Blood Group Test Kit Online
+Rapid Blood Type Test Kit
+Reagent Test Kit Online
+CRP Rapid Test Kit
+CRP Testing Kit Online
+Online Test Kit for CRP
+Rapid Testing Kits for CRP
+CRP Rapid Test at Home
+Igg Igm Rapid Test Kit
+IgM Antibodies Test
+Blood Test Kit for Igg
+Covid 19 Sars Cov 2 Antibody Test Kit
+Rapid Diagnostic Tests for Infectious Diseases
+Rapid Malaria Test Kit
+Influenza Rapid Test Kit
+Influenza Test Kit Uk
+Influenza Ab Rapid Test
+Rapid Influenza Test Kit
+Rapid Flu Test at Home
+Malaria Antibody Test Kit
+Gluten Check Test Kit
+Blood Test Kit for Coeliac Disease
+Celiac Disease Antibody Testing
+Sars Cov 2 Antigen Rapid Test Kit
+Sars Cov2 Antigen Rapid Test
+Sars Cov 2 Rapid Antigen Test
+Alere Hcg Test
+Alere Hcg Test Kits
+Hcg Count for Pregnancy
+Alere Pregnancy Test
+Abbott Drug Test
+Plasma Rapid Testing
+Plasma Rapid Test Online
+D Dimer Test Buy Online
+Test Kit for D Dimer
+Neutralising Antibodies Test
+Neutralising Antibodies Test Kits
+Myoglobin Test Kit
+Troponin Test Kit Online
+Troponin T Rapid Test Kit
+New keyword
+Typhoid Antigen Rapid Test
+Dengue NS1 Antigen Rapid Test
+blood type test reagent
+RSV diagnostic test
+test kit for blood type
+Abbott Oral Fluid Testing
+blood type test kit
+blood type testing kit
+Abbott Oral Fluid Testing Drug
+Abbott Saliva Drug Test
+Abbott Oral Fluid Test
+Abbott COVID-19 Flow Test
+RSV Antigen Test Kit
+AB0 Antigen Determination kit
+Reagents Antigen Test Kit
+Rapid Fob test Kit",
+    "target_url": "(https://poc-diagnostics.co.uk/)",
     "location": "US",
     "language": "en",
     "track": true
